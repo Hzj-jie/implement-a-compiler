@@ -9,3 +9,5 @@ A replica of https://zhuanlan.zhihu.com/c_1191347534474588160
 [Interpreted v.s. Compiled](interpreted-vs-compiled.md)
 
 [A Processor Named Primitive](a-processor-named-primitive.md)
+
+[Input of Primitive Processor](input-of-primitive-processor.md)

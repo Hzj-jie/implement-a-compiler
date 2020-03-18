@@ -1,4 +1,4 @@
-# Implement A Compiler
+# Implement a Compiler
 
 A replica of https://zhuanlan.zhihu.com/c_1191347534474588160
 
@@ -11,3 +11,6 @@ A replica of https://zhuanlan.zhihu.com/c_1191347534474588160
 [A Processor Named Primitive](a-processor-named-primitive.md)
 
 [Input of Primitive Processor](input-of-primitive-processor.md)
+
+[Implement Primitive Processor](implement-primitive-processor.md)
+

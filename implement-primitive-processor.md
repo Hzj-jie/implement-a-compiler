@@ -4,7 +4,7 @@ Primitive processor contains three function-irrelevant interfaces.
 
 1. Input and Output
 
-Can read and write text formatted or binary formatted instruction sets.
+Can read and write text formatted or binary formatted instruction sequences.
 
 ```
 Public Interface exportable

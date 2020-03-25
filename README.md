@@ -15,3 +15,5 @@ A replica of https://zhuanlan.zhihu.com/c_1191347534474588160
 [Implement Primitive Processor](implement-primitive-processor.md)
 
 [Implement Primitive Instructions](implement-primitive-instructions.md)
+
+[An Intermediate Language Named Logic](an-intermediate-language-named-logic.md)

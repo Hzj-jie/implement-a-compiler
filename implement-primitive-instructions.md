@@ -5,7 +5,7 @@ An instruction implements two function-independent interfaces.
 1. Input and Output
 
 Same as the interface of primitive processor, an instruction can input and
-output both text formatted and binary formatted instruction set.
+output both text formatted and binary formatted instruction sequences.
 
 ```
 Public Interface exportable

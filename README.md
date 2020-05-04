@@ -23,3 +23,5 @@ A replica of https://zhuanlan.zhihu.com/c_1191347534474588160
 [Anchors, Scope and Types of Logic](anchors-scope-and-types-of-logic.md)
 
 [Variable in Logic](variable-in-logic.md)
+
+[Function and Call in Logic](function-and-call-in-logic.md)

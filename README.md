@@ -25,3 +25,5 @@ A replica of https://zhuanlan.zhihu.com/c_1191347534474588160
 [Variable in Logic](variable-in-logic.md)
 
 [Function and Call in Logic](function-and-call-in-logic.md)
+
+[Types and Macros in Logic](types-and-macros-in-logic.md)

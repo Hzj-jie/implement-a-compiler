@@ -29,3 +29,5 @@ A replica of https://zhuanlan.zhihu.com/c_1191347534474588160
 [Types and Macros in Logic](types-and-macros-in-logic.md)
 
 [An Example of Logic](an-example-of-logic.md)
+
+[Lexical Analysis and Syntax Analysis](lexical-analysis-and-syntax-analysis.md)
